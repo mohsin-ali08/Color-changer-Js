@@ -1,0 +1,33 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid black;
+}
+.button {
+    width: 125px;
+    height: 125px;
+    border: 1px solid black;
+}
+#grey {
+    background-color: #aaaa;
+}
+#white {
+    background-color: #ffff;
+}
+#yellow {
+    background-color: yellow;
+}
+#blue {
+    background-color: blue;
+}
